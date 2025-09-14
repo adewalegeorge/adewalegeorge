@@ -11,10 +11,7 @@ When I’m not pushing pixels and optimizing bundles, I’m probably **writing m
 ---
 
 ## 🌐 Let’s Connect  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adewale.go)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adewalegeorge)
-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adewalegeorge8)
-- [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/adewalegeorge) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adewalegeorge) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/adewalegeorge) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adewalegeorge8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adewale.go)
  
 
 ---
@@ -64,8 +61,8 @@ I’m also a **vocalist and songwriter** 🎤 writing across genres like country
 
 [![](https://visitcount.itsvg.in/api?id=adewalegeorge&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/adewalegeorge) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/adewalegeorge)
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adewalegeorge) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/adewalegeorge)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
