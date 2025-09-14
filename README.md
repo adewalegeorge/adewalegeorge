@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I’m Adewale George  
+# 👋🏾 Adewale George here!
 
 ### Senior Front-End Engineer | UI/UX Developer | Web Performance Specialist  
 
