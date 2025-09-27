@@ -57,7 +57,7 @@ When I’m not pushing pixels and optimizing bundles, I’m probably **writing m
 
 ### 🎶 Fun Side  
 
-I’m also a **vocalist and songwriter** 🎤 writing across genres like country, Pop, gospel, and R&B. Many of my songs reflect life experiences, travels, and the people I meet. I do lots and lots of Karaoke when like permits and 
+I’m also a **vocalist and songwriter** 🎤 writing across genres like country, Pop, gospel, and R&B. Many of my songs reflect life experiences, travels, and the people I meet. I do lots and lots of Karaoke when life permits meetups with friends in the Smuleverse.
 
 
 ---
